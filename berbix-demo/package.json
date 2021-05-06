@@ -13,8 +13,8 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
-    "appboy-cordova-sdk": "file:../../appboy-cordova-sdk",
-    "berbix-cordova-plugin": "file:../../berbix-cordova-plugin",
+    "android": "0.0.8",
+    "berbix-cordova-plugin": "2.0.0-rc02",
     "cordova-android": "^9.0.0",
     "cordova-ios": "^6.2.0",
     "cordova-plugin-add-swift-support": "^2.0.2",
