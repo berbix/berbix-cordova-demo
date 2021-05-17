@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "android": "0.0.8",
-    "berbix-cordova-plugin": "2.0.0-rc02",
+    "berbix-cordova-plugin": "2.0.0-rc05",
     "cordova-android": "^9.0.0",
     "cordova-ios": "^6.2.0",
     "cordova-plugin-add-swift-support": "^2.0.2",
